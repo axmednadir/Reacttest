@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\WebApplication1\\react_api_proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77AF9C8-3BB5-4EB3-91A3-2B1CC276EA30}|react_api_proje\\react_api_proje.csproj|c:\\users\\user\\source\\repos\\webapplication1\\react_api_proje\\react_api_proje\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77AF9C8-3BB5-4EB3-91A3-2B1CC276EA30}|react_api_proje\\react_api_proje.csproj|solutionrelative:react_api_proje\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\WebApplication1\\react_api_proje\\react_api_proje\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "react_api_proje\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\WebApplication1\\react_api_proje\\react_api_proje\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "react_api_proje\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T17:45:03.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
